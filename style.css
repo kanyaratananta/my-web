@@ -2,12 +2,7 @@ h2{
     color: #ff3230
 }
 
-.container{
-    display: flex;
-    gap: 16px;
-    justify-content: center;
-    align-items: center;
-}
+
 
 .blue{
     color: blue;
@@ -23,6 +18,6 @@ a:hover{
 
 }
 .img{
-    width:300px;
+    width:500px;
     border-radius: 20px;
 }
